@@ -1,3 +1,7 @@
+@import "./fontawesome/fontawesome.css";
+@import "./fontawesome/brands.css";
+@import "./fontawesome/solid.css";
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
